@@ -1,0 +1,11 @@
+{
+    "name": "root/6ixberry_shop",
+    "description": "The offical 6ixberry shop",
+    "authors": [
+        {
+            "name": "Aliyah Cottle",
+            "email": "aliyahrcottle@gmail.com"
+        }
+    ],
+    "require": {}
+}
